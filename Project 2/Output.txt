@@ -1,0 +1,1681 @@
+Initializing store inventory items
+
+-----------Start of day 1-----------
+Clerk Rigby arrives at store on day 1
+Trainer Skipps arrives at store on day 1
+Skipps is feeding the pets:
+    - Skipps feeds the big black mixed dog who is healthy.
+    - Skipps feeds the big yellow poodle dog who is healthy.
+    - Skipps feeds the small brown german shepard dog who is healthy.
+    - Skipps feeds the black shorthair cat who is healthy.
+    - Skipps feeds the yellow shorthair cat who is healthy.
+    - Skipps feeds the black mixed cat who is healthy.
+    - Skipps feeds the small parakeet bird who is healthy.
+    - Skipps feeds the small parrot bird who is healthy.
+    - Skipps feeds the medium parakeet bird who is healthy.
+Rigby has counted $0.00 in the register
+Rigby has gone to the bank and withdrawn $1000
+Total money withdrawn from bank so far: $1000.0
+There is now $1000.0 in the register
+Clerk Rigby is doing inventory
+Clerk Rigby has counted a total of $1217.76 in items in the store inventory.
+Clerk Rigby sold Dog to customer 1 for $158.84
+Customer 2 left the store without buying anything.
+Clerk Rigby sold Cat Litter to customer 3 at a 10% discount for $152.23 
+Clerk Rigby sold Dog to customer 4 for $30.12
+Clerk Rigby sold Cat to customer 5 for $188.76
+Trainer Skipps is cleaning the animal cages.
+    - big yellow poodle dog escaped!
+        - Trainer Skipps caught big yellow poodle dog and returned them to their cage.
+Clerk Rigby is vacuuming the store.
+Clerk Rigby has locked up the store. Rigby and trainer Skipps are going home for the day.
+-----------Start of day 2-----------
+Clerk Mordecai arrives at store on day 2
+Trainer Skipps arrives at store on day 2
+Skipps is feeding the pets:
+    - Skipps feeds the big black mixed dog who is healthy.
+    - Skipps feeds the big yellow poodle dog who is healthy.
+    - Skipps feeds the small brown german shepard dog who is healthy.
+    - Skipps feeds the black shorthair cat who is healthy.
+    - Skipps feeds the yellow shorthair cat who is healthy.
+    - Skipps feeds the black mixed cat who is healthy.
+    - Skipps feeds the small parakeet bird who is healthy.
+    - Skipps feeds the small parrot bird who is healthy.
+    - Skipps feeds the medium parakeet bird who is healthy.
+Mordecai has counted $1514.72 in the register
+Clerk Mordecai is doing inventory
+Clerk Mordecai has counted a total of $952.79 in items in the store inventory.
+Clerk Mordecai sold Cat to customer 1 for $4.68
+Clerk Mordecai sold Bird to customer 2 at a 10% discount for $192.61
+Clerk Mordecai sold Leash to customer 3 at a 10% discount for $100.02
+Clerk Mordecai sold Bird to customer 4 for $181.32
+Clerk Mordecai sold Toy to customer 5 for $164.50
+Trainer Skipps is cleaning the animal cages.
+Clerk Mordecai is vacuuming the store.
+Clerk Mordecai has locked up the store. Mordecai and trainer Skipps are going home for the day.
+-----------Start of day 3-----------
+Clerk Rigby arrives at store on day 3
+Trainer Muscle Man arrives at store on day 3
+Muscle Man is feeding the pets:
+    - Muscle Man feeds the big black mixed dog who is healthy.
+    - Muscle Man feeds the big yellow poodle dog who is healthy.
+    - Muscle Man feeds the small brown german shepard dog who is healthy.
+        - Oh no! A small brown german shepard dog has gotten sick.
+    - Muscle Man feeds the black shorthair cat who is healthy.
+    - Muscle Man feeds the yellow shorthair cat who is healthy.
+    - Muscle Man feeds the black mixed cat who is healthy.
+    - Muscle Man feeds the small parakeet bird who is healthy.
+    - Muscle Man feeds the small parrot bird who is healthy.
+    - Muscle Man feeds the medium parakeet bird who is healthy.
+Rigby has counted $2128.60 in the register
+Clerk Rigby is doing inventory
+Clerk Rigby has counted a total of $603.31 in items in the store inventory.
+Placing an order for item: Dog
+Clerk Rigby sold Food to customer 1 for $125.78
+Clerk Rigby sold Cat to customer 2 for $116.66 
+Customer 3 left the store without buying anything.
+Customer 4 left the store without buying anything.
+Trainer Muscle Man is cleaning the animal cages.
+Clerk Rigby is vacuuming the store.
+Clerk Rigby has locked up the store. Rigby and trainer Muscle Man are going home for the day.
+-----------Start of day 4-----------
+Clerk Rigby arrives at store on day 4
+Trainer Skipps arrives at store on day 4
+Skipps is feeding the pets:
+    - Skipps feeds the big black mixed dog who is healthy.
+    - Skipps feeds the big yellow poodle dog who is healthy.
+    - Skipps feeds the small brown german shepard dog who is NOT healthy.
+    - Skipps feeds the black shorthair cat who is healthy.
+    - Skipps feeds the yellow shorthair cat who is healthy.
+    - Skipps feeds the black mixed cat who is healthy.
+    - Skipps feeds the small parakeet bird who is healthy.
+    - Skipps feeds the small parrot bird who is healthy.
+    - Skipps feeds the medium parakeet bird who is healthy.
+Rigby has counted $2371.04 in the register
+Clerk Rigby is doing inventory
+Clerk Rigby has counted a total of $482.09 in items in the store inventory.
+Placing an order for item: Dog
+Placing an order for item: Cat
+Clerk Rigby sold Toy to customer 1 at a 10% discount for $83.63
+Clerk Rigby sold Bird to customer 2 at a 10% discount for $75.17
+Customer 3 left the store without buying anything.
+Clerk Rigby sold Cat Litter to customer 4 at a 10% discount for $51.35
+Clerk Rigby sold Leash to customer 5 at a 10% discount for $39.95
+Customer 6 left the store without buying anything.
+Customer 7 left the store without buying anything.
+Trainer Skipps is cleaning the animal cages.
+    - big yellow poodle dog escaped!
+        - Trainer Skipps caught big yellow poodle dog and returned them to their cage.
+    - small parakeet bird escaped!
+        - Clerk Rigby caught small parakeet bird and returned them to their cage.
+Clerk Rigby is vacuuming the store.
+Clerk Rigby has locked up the store. Rigby and trainer Skipps are going home for the day.
+-----------Start of day 5-----------
+Clerk Mordecai arrives at store on day 5
+Trainer Skipps arrives at store on day 5
+Clerk Mordecai received a new shipment of item Dog and added them to the store's inventory.
+Skipps is feeding the pets:
+    - Skipps feeds the big black mixed dog who is healthy.
+    - Skipps feeds the big yellow poodle dog who is healthy.
+    - Skipps feeds the small brown german shepard dog who is NOT healthy.
+        - Awesome! small brown german shepard dog has gotten better.
+    - Skipps feeds the black shorthair cat who is healthy.
+        - Oh no! A black shorthair cat has gotten sick.
+    - Skipps feeds the yellow shorthair cat who is healthy.
+    - Skipps feeds the black mixed cat who is healthy.
+    - Skipps feeds the small parakeet bird who is healthy.
+    - Skipps feeds the small parrot bird who is healthy.
+    - Skipps feeds the medium parakeet bird who is healthy.
+    - Skipps feeds the small grey poodle dog who is healthy.
+    - Skipps feeds the big brown labrador dog who is healthy.
+    - Skipps feeds the small white german shepard dog who is healthy.
+Mordecai has counted $2596.13 in the register
+Clerk Mordecai is doing inventory
+Clerk Mordecai has counted a total of $571.42 in items in the store inventory.
+Placing an order for item: Cat
+Placing an order for item: Bird
+Customer 1 left the store without buying anything.
+Clerk Mordecai sold Toy to customer 2 for $72.96
+Customer 3 left the store without buying anything.
+Customer 4 left the store without buying anything.
+Clerk Mordecai sold Food to customer 5 for $162.06
+Trainer Skipps is cleaning the animal cages.
+Clerk Mordecai is vacuuming the store.
+Clerk Mordecai has locked up the store. Mordecai and trainer Skipps are going home for the day.
+-----------Start of day 6-----------
+Clerk Mordecai arrives at store on day 6
+Trainer Muscle Man arrives at store on day 6
+Clerk Mordecai received a new shipment of item Dog and added them to the store's inventory.
+Clerk Mordecai received a new shipment of item Cat and added them to the store's inventory.
+Muscle Man is feeding the pets:
+    - Muscle Man feeds the big black mixed dog who is healthy.
+    - Muscle Man feeds the big yellow poodle dog who is healthy.
+    - Muscle Man feeds the small brown german shepard dog who is healthy.
+    - Muscle Man feeds the black shorthair cat who is NOT healthy.
+    - Muscle Man feeds the yellow shorthair cat who is healthy.
+    - Muscle Man feeds the black mixed cat who is healthy.
+    - Muscle Man feeds the small parakeet bird who is healthy.
+    - Muscle Man feeds the small parrot bird who is healthy.
+    - Muscle Man feeds the medium parakeet bird who is healthy.
+    - Muscle Man feeds the small grey poodle dog who is healthy.
+    - Muscle Man feeds the big brown labrador dog who is healthy.
+    - Muscle Man feeds the small white german shepard dog who is healthy.
+    - Muscle Man feeds the small yellow poodle dog who is healthy.
+        - Oh no! A small yellow poodle dog has gotten sick.
+    - Muscle Man feeds the big yellow poodle dog who is healthy.
+    - Muscle Man feeds the medium black labrador dog who is healthy.
+    - Muscle Man feeds the grey ragdoll cat who is healthy.
+    - Muscle Man feeds the grey ragdoll cat who is healthy.
+    - Muscle Man feeds the black ragdoll cat who is healthy.
+Mordecai has counted $2831.15 in the register
+Clerk Mordecai is doing inventory
+Clerk Mordecai has counted a total of $701.78 in items in the store inventory.
+Placing an order for item: Bird
+Placing an order for item: Toy
+Clerk Mordecai sold Dog to customer 1 for $37.18
+Clerk Mordecai sold Cat to customer 2 at a 10% discount for $157.10
+Clerk Mordecai sold Dog to customer 3 at a 10% discount for $166.61
+Customer 4 left the store without buying anything.
+Clerk Mordecai sold Food to customer 5 for $198.70
+Clerk Mordecai sold Leash to customer 6 for $103.30
+Customer 7 left the store without buying anything.
+Clerk Mordecai sold Dog to customer 8 for $44.32
+Customer 9 left the store without buying anything.
+Trainer Muscle Man is cleaning the animal cages.
+Clerk Mordecai is vacuuming the store.
+Clerk Mordecai has locked up the store. Mordecai and trainer Muscle Man are going home for the day.
+-----------Start of day 7-----------
+Clerk Mordecai arrives at store on day 7
+Trainer Skipps arrives at store on day 7
+Clerk Mordecai received a new shipment of item Cat and added them to the store's inventory.
+Skipps is feeding the pets:
+    - Skipps feeds the big black mixed dog who is healthy.
+    - Skipps feeds the big yellow poodle dog who is healthy.
+        - Oh no! A big yellow poodle dog has gotten sick.
+    - Skipps feeds the small brown german shepard dog who is healthy.
+    - Skipps feeds the black shorthair cat who is NOT healthy.
+    - Skipps feeds the yellow shorthair cat who is healthy.
+    - Skipps feeds the black mixed cat who is healthy.
+    - Skipps feeds the small parakeet bird who is healthy.
+    - Skipps feeds the small parrot bird who is healthy.
+    - Skipps feeds the medium parakeet bird who is healthy.
+    - Skipps feeds the small grey poodle dog who is healthy.
+    - Skipps feeds the big brown labrador dog who is healthy.
+    - Skipps feeds the small white german shepard dog who is healthy.
+    - Skipps feeds the small yellow poodle dog who is NOT healthy.
+        - Awesome! small yellow poodle dog has gotten better.
+    - Skipps feeds the big yellow poodle dog who is healthy.
+    - Skipps feeds the medium black labrador dog who is healthy.
+    - Skipps feeds the grey ragdoll cat who is healthy.
+    - Skipps feeds the grey ragdoll cat who is healthy.
+    - Skipps feeds the black ragdoll cat who is healthy.
+    - Skipps feeds the brown longhair cat who is healthy.
+    - Skipps feeds the brown bengal cat who is healthy.
+    - Skipps feeds the yellow longhair cat who is healthy.
+Mordecai has counted $3505.99 in the register
+Clerk Mordecai is doing inventory
+Clerk Mordecai has counted a total of $509.40 in items in the store inventory.
+Placing an order for item: Bird
+Placing an order for item: Food
+Placing an order for item: Leash
+Placing an order for item: Toy
+Clerk Mordecai sold Dog to customer 1 for $102.70
+Customer 2 left the store without buying anything.
+Clerk Mordecai sold Cat to customer 3 for $66.75
+Trainer Skipps is cleaning the animal cages.
+    - brown longhair cat escaped!
+        - Trainer Skipps caught brown longhair cat and returned them to their cage.
+Clerk Mordecai is vacuuming the store.
+Clerk Mordecai has locked up the store. Mordecai and trainer Skipps are going home for the day.
+-----------Start of day 8-----------
+Clerk Rigby arrives at store on day 8
+Trainer Muscle Man arrives at store on day 8
+Clerk Rigby received a new shipment of item Bird and added them to the store's inventory.
+Clerk Rigby received a new shipment of item Bird and added them to the store's inventory.
+Clerk Rigby received a new shipment of item Toy and added them to the store's inventory.
+Clerk Rigby received a new shipment of item Bird and added them to the store's inventory.
+Clerk Rigby received a new shipment of item Food and added them to the store's inventory.
+Clerk Rigby received a new shipment of item Toy and added them to the store's inventory.
+Muscle Man is feeding the pets:
+    - Muscle Man feeds the big black mixed dog who is healthy.
+    - Muscle Man feeds the big yellow poodle dog who is NOT healthy.
+    - Muscle Man feeds the small brown german shepard dog who is healthy.
+    - Muscle Man feeds the black shorthair cat who is NOT healthy.
+        - Awesome! black shorthair cat has gotten better.
+    - Muscle Man feeds the yellow shorthair cat who is healthy.
+    - Muscle Man feeds the black mixed cat who is healthy.
+        - Oh no! A black mixed cat has gotten sick.
+    - Muscle Man feeds the small parakeet bird who is healthy.
+    - Muscle Man feeds the small parrot bird who is healthy.
+    - Muscle Man feeds the medium parakeet bird who is healthy.
+    - Muscle Man feeds the small grey poodle dog who is healthy.
+    - Muscle Man feeds the big brown labrador dog who is healthy.
+        - Oh no! A big brown labrador dog has gotten sick.
+    - Muscle Man feeds the small white german shepard dog who is healthy.
+    - Muscle Man feeds the small yellow poodle dog who is healthy.
+    - Muscle Man feeds the big yellow poodle dog who is healthy.
+    - Muscle Man feeds the medium black labrador dog who is healthy.
+    - Muscle Man feeds the grey ragdoll cat who is healthy.
+    - Muscle Man feeds the grey ragdoll cat who is healthy.
+    - Muscle Man feeds the black ragdoll cat who is healthy.
+    - Muscle Man feeds the brown longhair cat who is healthy.
+    - Muscle Man feeds the brown bengal cat who is healthy.
+    - Muscle Man feeds the yellow longhair cat who is healthy.
+        - Oh no! A yellow longhair cat has gotten sick.
+    - Muscle Man feeds the medium cockatoo bird who is healthy.
+    - Muscle Man feeds the medium parrot bird who is healthy.
+    - Muscle Man feeds the medium parakeet bird who is healthy.
+    - Muscle Man feeds the small lovebird bird who is healthy.
+    - Muscle Man feeds the small finch bird who is healthy.
+    - Muscle Man feeds the small parakeet bird who is healthy.
+    - Muscle Man feeds the small lovebird bird who is healthy.
+    - Muscle Man feeds the small cockatoo bird who is healthy.
+    - Muscle Man feeds the big finch bird who is healthy.
+Rigby has counted $3675.44 in the register
+Clerk Rigby is doing inventory
+Clerk Rigby has counted a total of $1382.43 in items in the store inventory.
+Placing an order for item: Leash
+Clerk Rigby sold Bird to customer 1 for $68.58
+Customer 2 left the store without buying anything.
+Clerk Rigby sold Dog to customer 3 for $103.64
+Customer 4 left the store without buying anything.
+Trainer Muscle Man is cleaning the animal cages.
+    - small parakeet bird escaped!
+        - Clerk Rigby caught small parakeet bird and returned them to their cage.
+Clerk Rigby is vacuuming the store.
+Clerk Rigby has locked up the store. Rigby and trainer Muscle Man are going home for the day.
+-----------Start of day 9-----------
+Clerk Rigby arrives at store on day 9
+Trainer Muscle Man arrives at store on day 9
+Clerk Rigby received a new shipment of item Leash and added them to the store's inventory.
+Muscle Man is feeding the pets:
+    - Muscle Man feeds the big black mixed dog who is healthy.
+        - Oh no! A big black mixed dog has gotten sick.
+    - Muscle Man feeds the big yellow poodle dog who is NOT healthy.
+        - Awesome! big yellow poodle dog has gotten better.
+    - Muscle Man feeds the small brown german shepard dog who is healthy.
+    - Muscle Man feeds the black shorthair cat who is healthy.
+    - Muscle Man feeds the yellow shorthair cat who is healthy.
+    - Muscle Man feeds the black mixed cat who is NOT healthy.
+    - Muscle Man feeds the small parakeet bird who is healthy.
+    - Muscle Man feeds the small parrot bird who is healthy.
+    - Muscle Man feeds the medium parakeet bird who is healthy.
+    - Muscle Man feeds the small grey poodle dog who is healthy.
+    - Muscle Man feeds the big brown labrador dog who is NOT healthy.
+    - Muscle Man feeds the small white german shepard dog who is healthy.
+    - Muscle Man feeds the small yellow poodle dog who is healthy.
+    - Muscle Man feeds the big yellow poodle dog who is healthy.
+    - Muscle Man feeds the medium black labrador dog who is healthy.
+    - Muscle Man feeds the grey ragdoll cat who is healthy.
+    - Muscle Man feeds the grey ragdoll cat who is healthy.
+    - Muscle Man feeds the black ragdoll cat who is healthy.
+    - Muscle Man feeds the brown longhair cat who is healthy.
+    - Muscle Man feeds the brown bengal cat who is healthy.
+    - Muscle Man feeds the yellow longhair cat who is NOT healthy.
+    - Muscle Man feeds the medium cockatoo bird who is healthy.
+    - Muscle Man feeds the medium parrot bird who is healthy.
+    - Muscle Man feeds the medium parakeet bird who is healthy.
+    - Muscle Man feeds the small lovebird bird who is healthy.
+    - Muscle Man feeds the small finch bird who is healthy.
+    - Muscle Man feeds the small parakeet bird who is healthy.
+    - Muscle Man feeds the small lovebird bird who is healthy.
+    - Muscle Man feeds the small cockatoo bird who is healthy.
+    - Muscle Man feeds the big finch bird who is healthy.
+Rigby has counted $3847.66 in the register
+Clerk Rigby is doing inventory
+Clerk Rigby has counted a total of $1455.71 in items in the store inventory.
+Customer 1 left the store without buying anything.
+Clerk Rigby sold Bird to customer 2 at a 10% discount for $130.00
+Clerk Rigby sold Bird to customer 3 for $3.80
+Customer 4 left the store without buying anything.
+Clerk Rigby sold Dog to customer 5 at a 10% discount for $19.93
+Clerk Rigby sold Food to customer 6 for $93.60
+Trainer Muscle Man is cleaning the animal cages.
+    - yellow shorthair cat escaped!
+        - Trainer Muscle Man caught yellow shorthair cat and returned them to their cage.
+    - small parrot bird escaped!
+        - Trainer Muscle Man caught small parrot bird and returned them to their cage.
+    - medium parakeet bird escaped!
+        - Clerk Rigby caught medium parakeet bird and returned them to their cage.
+Clerk Rigby is vacuuming the store.
+Clerk Rigby has locked up the store. Rigby and trainer Muscle Man are going home for the day.
+-----------Start of day 10-----------
+Clerk Mordecai arrives at store on day 10
+Trainer Skipps arrives at store on day 10
+Clerk Mordecai received a new shipment of item Leash and added them to the store's inventory.
+Skipps is feeding the pets:
+    - Skipps feeds the big black mixed dog who is NOT healthy.
+    - Skipps feeds the big yellow poodle dog who is healthy.
+    - Skipps feeds the small brown german shepard dog who is healthy.
+    - Skipps feeds the black shorthair cat who is healthy.
+    - Skipps feeds the yellow shorthair cat who is healthy.
+    - Skipps feeds the black mixed cat who is NOT healthy.
+    - Skipps feeds the small parakeet bird who is healthy.
+    - Skipps feeds the small parrot bird who is healthy.
+    - Skipps feeds the medium parakeet bird who is healthy.
+    - Skipps feeds the small grey poodle dog who is healthy.
+        - Oh no! A small grey poodle dog has gotten sick.
+    - Skipps feeds the big brown labrador dog who is NOT healthy.
+    - Skipps feeds the small white german shepard dog who is healthy.
+    - Skipps feeds the small yellow poodle dog who is healthy.
+    - Skipps feeds the big yellow poodle dog who is healthy.
+        - Oh no! A big yellow poodle dog has gotten sick.
+    - Skipps feeds the medium black labrador dog who is healthy.
+    - Skipps feeds the grey ragdoll cat who is healthy.
+    - Skipps feeds the grey ragdoll cat who is healthy.
+        - Oh no! A grey ragdoll cat has gotten sick.
+    - Skipps feeds the black ragdoll cat who is healthy.
+    - Skipps feeds the brown longhair cat who is healthy.
+    - Skipps feeds the brown bengal cat who is healthy.
+    - Skipps feeds the yellow longhair cat who is NOT healthy.
+    - Skipps feeds the medium cockatoo bird who is healthy.
+    - Skipps feeds the medium parrot bird who is healthy.
+    - Skipps feeds the medium parakeet bird who is healthy.
+    - Skipps feeds the small lovebird bird who is healthy.
+    - Skipps feeds the small finch bird who is healthy.
+        - Oh no! A small finch bird has gotten sick.
+    - Skipps feeds the small parakeet bird who is healthy.
+    - Skipps feeds the small lovebird bird who is healthy.
+    - Skipps feeds the small cockatoo bird who is healthy.
+    - Skipps feeds the big finch bird who is healthy.
+Mordecai has counted $4080.00 in the register
+Clerk Mordecai is doing inventory
+Clerk Mordecai has counted a total of $1375.31 in items in the store inventory. 
+Clerk Mordecai sold Food to customer 1 at a 10% discount for $121.36
+Customer 2 left the store without buying anything.
+Clerk Mordecai sold Cat to customer 3 for $78.75
+Clerk Mordecai sold Bird to customer 4 for $153.11
+Clerk Mordecai sold Leash to customer 5 at a 10% discount for $65.10
+Clerk Mordecai sold Leash to customer 6 for $34.47
+Trainer Skipps is cleaning the animal cages.
+Clerk Mordecai is vacuuming the store.
+Clerk Mordecai has locked up the store. Mordecai and trainer Skipps are going home for the day.
+-----------Start of day 11-----------
+Clerk Rigby arrives at store on day 11
+Trainer Muscle Man arrives at store on day 11
+Muscle Man is feeding the pets:
+    - Muscle Man feeds the big black mixed dog who is NOT healthy.
+    - Muscle Man feeds the big yellow poodle dog who is healthy.
+    - Muscle Man feeds the small brown german shepard dog who is healthy.
+    - Muscle Man feeds the black shorthair cat who is healthy.
+    - Muscle Man feeds the yellow shorthair cat who is healthy.
+    - Muscle Man feeds the black mixed cat who is NOT healthy.
+    - Muscle Man feeds the small parakeet bird who is healthy.
+    - Muscle Man feeds the small parrot bird who is healthy.
+        - Oh no! A small parrot bird has gotten sick.
+    - Muscle Man feeds the medium parakeet bird who is healthy.
+    - Muscle Man feeds the small grey poodle dog who is NOT healthy.
+        - Awesome! small grey poodle dog has gotten better.
+    - Muscle Man feeds the big brown labrador dog who is NOT healthy.
+    - Muscle Man feeds the small white german shepard dog who is healthy.
+    - Muscle Man feeds the small yellow poodle dog who is healthy.
+    - Muscle Man feeds the big yellow poodle dog who is NOT healthy.
+    - Muscle Man feeds the medium black labrador dog who is healthy.
+    - Muscle Man feeds the grey ragdoll cat who is healthy.
+    - Muscle Man feeds the grey ragdoll cat who is NOT healthy.
+    - Muscle Man feeds the black ragdoll cat who is healthy.
+    - Muscle Man feeds the brown longhair cat who is healthy.
+    - Muscle Man feeds the brown bengal cat who is healthy.
+    - Muscle Man feeds the yellow longhair cat who is NOT healthy.
+    - Muscle Man feeds the medium cockatoo bird who is healthy.
+    - Muscle Man feeds the medium parrot bird who is healthy.
+    - Muscle Man feeds the medium parakeet bird who is healthy.
+    - Muscle Man feeds the small lovebird bird who is healthy.
+    - Muscle Man feeds the small finch bird who is NOT healthy.
+    - Muscle Man feeds the small parakeet bird who is healthy.
+    - Muscle Man feeds the small lovebird bird who is healthy.
+    - Muscle Man feeds the small cockatoo bird who is healthy.
+    - Muscle Man feeds the big finch bird who is healthy.
+Rigby has counted $4514.14 in the register
+Clerk Rigby is doing inventory
+Clerk Rigby has counted a total of $1200.73 in items in the store inventory.
+Clerk Rigby sold Cat to customer 1 at a 10% discount for $70.30
+Clerk Rigby sold Toy to customer 2 for $166.13
+Clerk Rigby sold Bird to customer 3 at a 10% discount for $50.63
+Clerk Rigby sold Dog to customer 4 for $55.82
+Customer 5 left the store without buying anything.
+Clerk Rigby sold Bird to customer 6 for $11.06
+Clerk Rigby sold Toy to customer 7 for $156.74
+Clerk Rigby sold Food to customer 8 at a 10% discount for $176.09
+Clerk Rigby sold Bird to customer 9 at a 10% discount for $180.45
+Trainer Muscle Man is cleaning the animal cages.
+    - small grey poodle dog escaped!
+        - Trainer Muscle Man caught small grey poodle dog and returned them to their cage.
+    - small yellow poodle dog escaped!
+        - Trainer Muscle Man caught small yellow poodle dog and returned them to their cage.
+Clerk Rigby is vacuuming the store.
+Clerk Rigby has locked up the store. Rigby and trainer Muscle Man are going home for the day.
+-----------Start of day 12-----------
+Clerk Mordecai arrives at store on day 12
+Trainer Skipps arrives at store on day 12
+Skipps is feeding the pets: 
+    - Skipps feeds the big black mixed dog who is NOT healthy.
+        - Awesome! big black mixed dog has gotten better.
+    - Skipps feeds the big yellow poodle dog who is healthy.
+    - Skipps feeds the small brown german shepard dog who is healthy.
+    - Skipps feeds the black shorthair cat who is healthy.
+    - Skipps feeds the yellow shorthair cat who is healthy.
+    - Skipps feeds the black mixed cat who is NOT healthy.
+    - Skipps feeds the small parakeet bird who is healthy.
+    - Skipps feeds the small parrot bird who is NOT healthy.
+    - Skipps feeds the medium parakeet bird who is healthy.
+    - Skipps feeds the small grey poodle dog who is healthy.
+    - Skipps feeds the big brown labrador dog who is NOT healthy.
+        - Awesome! big brown labrador dog has gotten better.
+    - Skipps feeds the small white german shepard dog who is healthy.
+    - Skipps feeds the small yellow poodle dog who is healthy.
+    - Skipps feeds the big yellow poodle dog who is NOT healthy.
+    - Skipps feeds the medium black labrador dog who is healthy.
+    - Skipps feeds the grey ragdoll cat who is healthy.
+    - Skipps feeds the grey ragdoll cat who is NOT healthy.
+    - Skipps feeds the black ragdoll cat who is healthy.
+    - Skipps feeds the brown longhair cat who is healthy.
+    - Skipps feeds the brown bengal cat who is healthy.
+        - Oh no! A brown bengal cat has gotten sick.
+    - Skipps feeds the yellow longhair cat who is NOT healthy.
+    - Skipps feeds the medium cockatoo bird who is healthy.
+    - Skipps feeds the medium parrot bird who is healthy.
+    - Skipps feeds the medium parakeet bird who is healthy.
+    - Skipps feeds the small lovebird bird who is healthy.
+    - Skipps feeds the small finch bird who is NOT healthy.
+        - Awesome! small finch bird has gotten better.
+    - Skipps feeds the small parakeet bird who is healthy.
+    - Skipps feeds the small lovebird bird who is healthy.
+    - Skipps feeds the small cockatoo bird who is healthy.
+    - Skipps feeds the big finch bird who is healthy.
+Mordecai has counted $5333.62 in the register
+Clerk Mordecai is doing inventory
+Clerk Mordecai has counted a total of $907.21 in items in the store inventory.
+Placing an order for item: Food
+Clerk Mordecai sold Bird to customer 1 for $53.55
+Clerk Mordecai sold Toy to customer 2 at a 10% discount for $83.45
+Clerk Mordecai sold Leash to customer 3 for $86.76
+Clerk Mordecai sold Bird to customer 4 at a 10% discount for $18.65
+Clerk Mordecai sold Cat Litter to customer 5 for $177.05
+Clerk Mordecai sold Toy to customer 6 at a 10% discount for $125.48
+Trainer Skipps is cleaning the animal cages.
+    - medium parakeet bird escaped!
+        - Clerk Mordecai caught medium parakeet bird and returned them to their cage.
+    - big finch bird escaped!
+        - Trainer Skipps caught big finch bird and returned them to their cage.
+Clerk Mordecai is vacuuming the store.
+Clerk Mordecai has locked up the store. Mordecai and trainer Skipps are going home for the day.
+-----------Start of day 13-----------
+Clerk Rigby arrives at store on day 13
+Trainer Muscle Man arrives at store on day 13
+Clerk Rigby received a new shipment of item Food and added them to the store's inventory.
+Muscle Man is feeding the pets:
+    - Muscle Man feeds the big black mixed dog who is healthy.
+    - Muscle Man feeds the big yellow poodle dog who is healthy.
+    - Muscle Man feeds the small brown german shepard dog who is healthy.
+    - Muscle Man feeds the black shorthair cat who is healthy.
+    - Muscle Man feeds the yellow shorthair cat who is healthy.
+    - Muscle Man feeds the black mixed cat who is NOT healthy.
+        - Awesome! black mixed cat has gotten better.
+    - Muscle Man feeds the small parakeet bird who is healthy.
+    - Muscle Man feeds the small parrot bird who is NOT healthy.
+    - Muscle Man feeds the medium parakeet bird who is healthy.
+    - Muscle Man feeds the small grey poodle dog who is healthy.
+    - Muscle Man feeds the big brown labrador dog who is healthy.
+    - Muscle Man feeds the small white german shepard dog who is healthy.
+    - Muscle Man feeds the small yellow poodle dog who is healthy.
+    - Muscle Man feeds the big yellow poodle dog who is NOT healthy.
+    - Muscle Man feeds the medium black labrador dog who is healthy.
+    - Muscle Man feeds the grey ragdoll cat who is healthy.
+    - Muscle Man feeds the grey ragdoll cat who is NOT healthy.
+    - Muscle Man feeds the black ragdoll cat who is healthy.
+    - Muscle Man feeds the brown longhair cat who is healthy.
+    - Muscle Man feeds the brown bengal cat who is NOT healthy.
+    - Muscle Man feeds the yellow longhair cat who is NOT healthy.
+    - Muscle Man feeds the medium cockatoo bird who is healthy.
+    - Muscle Man feeds the medium parrot bird who is healthy.
+    - Muscle Man feeds the medium parakeet bird who is healthy.
+    - Muscle Man feeds the small lovebird bird who is healthy.
+        - Oh no! A small lovebird bird has gotten sick. 
+    - Muscle Man feeds the small finch bird who is healthy.
+    - Muscle Man feeds the small parakeet bird who is healthy.
+    - Muscle Man feeds the small lovebird bird who is healthy.
+    - Muscle Man feeds the small cockatoo bird who is healthy.
+    - Muscle Man feeds the big finch bird who is healthy.
+Rigby has counted $5855.81 in the register
+Clerk Rigby is doing inventory
+Clerk Rigby has counted a total of $721.53 in items in the store inventory.
+Placing an order for item: Bird
+Placing an order for item: Cat Litter
+Clerk Rigby sold Cat to customer 1 at a 10% discount for $188.76
+Clerk Rigby sold Dog to customer 2 for $30.12
+Clerk Rigby sold Food to customer 3 for $5.42
+Clerk Rigby sold Dog to customer 4 at a 10% discount for $102.70
+Customer 5 left the store without buying anything.
+Trainer Muscle Man is cleaning the animal cages.
+    - big yellow poodle dog escaped!
+        - Trainer Muscle Man caught big yellow poodle dog and returned them to their cage.
+    - yellow longhair cat escaped!
+        - Trainer Muscle Man caught yellow longhair cat and returned them to their cage.
+    - small lovebird bird escaped!
+        - Clerk Rigby caught small lovebird bird and returned them to their cage.
+Clerk Rigby is vacuuming the store.
+Clerk Rigby has locked up the store. Rigby and trainer Muscle Man are going home for the day.
+-----------Start of day 14-----------
+Clerk Rigby arrives at store on day 14
+Trainer Muscle Man arrives at store on day 14
+Muscle Man is feeding the pets:
+    - Muscle Man feeds the big black mixed dog who is healthy.
+    - Muscle Man feeds the big yellow poodle dog who is healthy.
+    - Muscle Man feeds the small brown german shepard dog who is healthy.
+    - Muscle Man feeds the black shorthair cat who is healthy.
+    - Muscle Man feeds the yellow shorthair cat who is healthy.
+    - Muscle Man feeds the black mixed cat who is healthy.
+    - Muscle Man feeds the small parakeet bird who is healthy.
+        - Oh no! A small parakeet bird has gotten sick.
+    - Muscle Man feeds the small parrot bird who is NOT healthy.
+        - Awesome! small parrot bird has gotten better.
+    - Muscle Man feeds the medium parakeet bird who is healthy.
+    - Muscle Man feeds the small grey poodle dog who is healthy.
+    - Muscle Man feeds the big brown labrador dog who is healthy.
+    - Muscle Man feeds the small white german shepard dog who is healthy.
+    - Muscle Man feeds the small yellow poodle dog who is healthy.
+    - Muscle Man feeds the big yellow poodle dog who is NOT healthy.
+        - Awesome! big yellow poodle dog has gotten better.
+    - Muscle Man feeds the medium black labrador dog who is healthy.
+    - Muscle Man feeds the grey ragdoll cat who is healthy.
+    - Muscle Man feeds the grey ragdoll cat who is NOT healthy.
+        - Awesome! grey ragdoll cat has gotten better.
+    - Muscle Man feeds the black ragdoll cat who is healthy.
+    - Muscle Man feeds the brown longhair cat who is healthy.
+    - Muscle Man feeds the brown bengal cat who is NOT healthy.
+    - Muscle Man feeds the yellow longhair cat who is NOT healthy.
+    - Muscle Man feeds the medium cockatoo bird who is healthy.
+    - Muscle Man feeds the medium parrot bird who is healthy.
+    - Muscle Man feeds the medium parakeet bird who is healthy.
+    - Muscle Man feeds the small lovebird bird who is NOT healthy.
+        - Awesome! small lovebird bird has gotten better.
+    - Muscle Man feeds the small finch bird who is healthy.
+    - Muscle Man feeds the small parakeet bird who is healthy.
+    - Muscle Man feeds the small lovebird bird who is healthy.
+    - Muscle Man feeds the small cockatoo bird who is healthy.
+    - Muscle Man feeds the big finch bird who is healthy.
+Rigby has counted $6153.65 in the register
+Clerk Rigby is doing inventory
+Clerk Rigby has counted a total of $747.26 in items in the store inventory.
+Placing an order for item: Cat Litter
+Clerk Rigby sold Food to customer 1 for $50.56
+Clerk Rigby sold Bird to customer 2 for $75.17
+Customer 3 left the store without buying anything.
+Customer 4 left the store without buying anything.
+Clerk Rigby sold Dog to customer 5 at a 10% discount for $103.64
+Clerk Rigby sold Food to customer 6 at a 10% discount for $112.92
+Clerk Rigby sold Dog to customer 7 for $44.32
+Clerk Rigby sold Toy to customer 8 for $144.65
+Customer 9 left the store without buying anything.
+Trainer Muscle Man is cleaning the animal cages.
+Clerk Rigby is vacuuming the store.
+Clerk Rigby has locked up the store. Rigby and trainer Muscle Man are going home for the day.
+-----------Start of day 15-----------
+Clerk Rigby arrives at store on day 15
+Trainer Muscle Man arrives at store on day 15
+Clerk Rigby received a new shipment of item Cat Litter and added them to the store's inventory.
+Muscle Man is feeding the pets:
+    - Muscle Man feeds the big black mixed dog who is healthy.
+    - Muscle Man feeds the big yellow poodle dog who is healthy.
+    - Muscle Man feeds the small brown german shepard dog who is healthy.
+    - Muscle Man feeds the black shorthair cat who is healthy.
+    - Muscle Man feeds the yellow shorthair cat who is healthy.
+    - Muscle Man feeds the black mixed cat who is healthy.
+    - Muscle Man feeds the small parakeet bird who is NOT healthy.
+    - Muscle Man feeds the small parrot bird who is healthy.
+    - Muscle Man feeds the medium parakeet bird who is healthy.
+    - Muscle Man feeds the small grey poodle dog who is healthy.
+    - Muscle Man feeds the big brown labrador dog who is healthy.
+    - Muscle Man feeds the small white german shepard dog who is healthy.
+    - Muscle Man feeds the small yellow poodle dog who is healthy.
+    - Muscle Man feeds the big yellow poodle dog who is healthy.
+    - Muscle Man feeds the medium black labrador dog who is healthy.
+    - Muscle Man feeds the grey ragdoll cat who is healthy.
+    - Muscle Man feeds the grey ragdoll cat who is healthy.
+    - Muscle Man feeds the black ragdoll cat who is healthy.
+    - Muscle Man feeds the brown longhair cat who is healthy.
+    - Muscle Man feeds the brown bengal cat who is NOT healthy.
+    - Muscle Man feeds the yellow longhair cat who is NOT healthy.
+        - Awesome! yellow longhair cat has gotten better.
+    - Muscle Man feeds the medium cockatoo bird who is healthy.
+    - Muscle Man feeds the medium parrot bird who is healthy.
+    - Muscle Man feeds the medium parakeet bird who is healthy.
+    - Muscle Man feeds the small lovebird bird who is healthy.
+    - Muscle Man feeds the small finch bird who is healthy.
+    - Muscle Man feeds the small parakeet bird who is healthy.
+    - Muscle Man feeds the small lovebird bird who is healthy.
+    - Muscle Man feeds the small cockatoo bird who is healthy.
+    - Muscle Man feeds the big finch bird who is healthy.
+Rigby has counted $6663.26 in the register
+Clerk Rigby is doing inventory
+Clerk Rigby has counted a total of $749.50 in items in the store inventory.
+Placing an order for item: Food
+Customer 1 left the store without buying anything.
+Customer 2 left the store without buying anything.
+Customer 3 left the store without buying anything.
+Clerk Rigby sold Cat to customer 4 at a 10% discount for $190.38
+Clerk Rigby sold Leash to customer 5 at a 10% discount for $28.15
+Clerk Rigby sold Leash to customer 6 at a 10% discount for $174.31
+Trainer Muscle Man is cleaning the animal cages.
+    - big yellow poodle dog escaped!
+        - Trainer Muscle Man caught big yellow poodle dog and returned them to their cage.
+    - yellow shorthair cat escaped!
+        - Clerk Rigby caught yellow shorthair cat and returned them to their cage.
+    - yellow longhair cat escaped!
+        - Clerk Rigby caught yellow longhair cat and returned them to their cage.
+Clerk Rigby is vacuuming the store.
+Clerk Rigby has locked up the store. Rigby and trainer Muscle Man are going home for the day.
+-----------Start of day 16-----------
+Clerk Mordecai arrives at store on day 16
+Trainer Muscle Man arrives at store on day 16
+Clerk Mordecai received a new shipment of item Bird and added them to the store's inventory.
+Clerk Mordecai received a new shipment of item Cat Litter and added them to the store's inventory.
+Clerk Mordecai received a new shipment of item Food and added them to the store's inventory.
+Muscle Man is feeding the pets:
+    - Muscle Man feeds the big black mixed dog who is healthy.
+    - Muscle Man feeds the big yellow poodle dog who is healthy.
+    - Muscle Man feeds the small brown german shepard dog who is healthy.
+    - Muscle Man feeds the black shorthair cat who is healthy.
+    - Muscle Man feeds the yellow shorthair cat who is healthy.
+    - Muscle Man feeds the black mixed cat who is healthy.
+    - Muscle Man feeds the small parakeet bird who is NOT healthy.
+    - Muscle Man feeds the small parrot bird who is healthy.
+    - Muscle Man feeds the medium parakeet bird who is healthy.
+    - Muscle Man feeds the small grey poodle dog who is healthy.
+    - Muscle Man feeds the big brown labrador dog who is healthy.
+    - Muscle Man feeds the small white german shepard dog who is healthy.
+    - Muscle Man feeds the small yellow poodle dog who is healthy.
+    - Muscle Man feeds the big yellow poodle dog who is healthy.
+    - Muscle Man feeds the medium black labrador dog who is healthy.
+    - Muscle Man feeds the grey ragdoll cat who is healthy.
+        - Oh no! A grey ragdoll cat has gotten sick.
+    - Muscle Man feeds the grey ragdoll cat who is healthy.
+    - Muscle Man feeds the black ragdoll cat who is healthy.
+    - Muscle Man feeds the brown longhair cat who is healthy.
+    - Muscle Man feeds the brown bengal cat who is NOT healthy.
+    - Muscle Man feeds the yellow longhair cat who is healthy.
+    - Muscle Man feeds the medium cockatoo bird who is healthy.
+    - Muscle Man feeds the medium parrot bird who is healthy.
+    - Muscle Man feeds the medium parakeet bird who is healthy.
+    - Muscle Man feeds the small lovebird bird who is healthy.
+    - Muscle Man feeds the small finch bird who is healthy.
+    - Muscle Man feeds the small parakeet bird who is healthy.
+    - Muscle Man feeds the small lovebird bird who is healthy.
+    - Muscle Man feeds the small cockatoo bird who is healthy.
+    - Muscle Man feeds the big finch bird who is healthy.
+    - Muscle Man feeds the medium parakeet bird who is healthy.
+    - Muscle Man feeds the medium parrot bird who is healthy.
+    - Muscle Man feeds the big finch bird who is healthy.
+Mordecai has counted $7016.81 in the register
+Clerk Mordecai is doing inventory
+Clerk Mordecai has counted a total of $1018.36 in items in the store inventory.
+Clerk Mordecai sold Bird to customer 1 for $68.58
+Clerk Mordecai sold Bird to customer 2 for $175.46
+Clerk Mordecai sold Bird to customer 3 at a 10% discount for $2.82
+Trainer Muscle Man is cleaning the animal cages.
+    - big yellow poodle dog escaped!
+        - Clerk Mordecai caught big yellow poodle dog and returned them to their cage.
+    - big finch bird escaped!
+        - Clerk Mordecai caught big finch bird and returned them to their cage.
+Clerk Mordecai is vacuuming the store.
+Clerk Mordecai has locked up the store. Mordecai and trainer Muscle Man are going home for the day.
+-----------Start of day 17-----------
+Clerk Rigby arrives at store on day 17
+Trainer Skipps arrives at store on day 17
+Skipps is feeding the pets:
+    - Skipps feeds the big black mixed dog who is healthy.
+    - Skipps feeds the big yellow poodle dog who is healthy.
+    - Skipps feeds the small brown german shepard dog who is healthy.
+    - Skipps feeds the black shorthair cat who is healthy.
+    - Skipps feeds the yellow shorthair cat who is healthy.
+    - Skipps feeds the black mixed cat who is healthy.
+    - Skipps feeds the small parakeet bird who is NOT healthy.
+    - Skipps feeds the small parrot bird who is healthy.
+    - Skipps feeds the medium parakeet bird who is healthy.
+    - Skipps feeds the small grey poodle dog who is healthy.
+        - Oh no! A small grey poodle dog has gotten sick.
+    - Skipps feeds the big brown labrador dog who is healthy.
+    - Skipps feeds the small white german shepard dog who is healthy.
+    - Skipps feeds the small yellow poodle dog who is healthy.
+    - Skipps feeds the big yellow poodle dog who is healthy.
+    - Skipps feeds the medium black labrador dog who is healthy.
+    - Skipps feeds the grey ragdoll cat who is NOT healthy.
+    - Skipps feeds the grey ragdoll cat who is healthy.
+    - Skipps feeds the black ragdoll cat who is healthy.
+    - Skipps feeds the brown longhair cat who is healthy.
+    - Skipps feeds the brown bengal cat who is NOT healthy.
+    - Skipps feeds the yellow longhair cat who is healthy.
+    - Skipps feeds the medium cockatoo bird who is healthy.
+    - Skipps feeds the medium parrot bird who is healthy.
+    - Skipps feeds the medium parakeet bird who is healthy.
+        - Oh no! A medium parakeet bird has gotten sick.
+    - Skipps feeds the small lovebird bird who is healthy.
+    - Skipps feeds the small finch bird who is healthy.
+    - Skipps feeds the small parakeet bird who is healthy.
+    - Skipps feeds the small lovebird bird who is healthy.
+    - Skipps feeds the small cockatoo bird who is healthy.
+    - Skipps feeds the big finch bird who is healthy.
+    - Skipps feeds the medium parakeet bird who is healthy.
+    - Skipps feeds the medium parrot bird who is healthy.
+    - Skipps feeds the big finch bird who is healthy.
+Rigby has counted $7263.39 in the register
+Clerk Rigby is doing inventory
+Clerk Rigby has counted a total of $894.93 in items in the store inventory.
+Clerk Rigby sold Cat Litter to customer 1 for $159.41
+Customer 2 left the store without buying anything.
+Clerk Rigby sold Leash to customer 3 for $195.43
+Clerk Rigby sold Cat Litter to customer 4 at a 10% discount for $189.47
+Clerk Rigby sold Cat to customer 5 at a 10% discount for $153.46
+Trainer Skipps is cleaning the animal cages.
+    - medium parakeet bird escaped!
+        - Trainer Skipps caught medium parakeet bird and returned them to their cage.
+Clerk Rigby is vacuuming the store.
+Clerk Rigby has locked up the store. Rigby and trainer Skipps are going home for the day.
+-----------Start of day 18-----------
+Clerk Rigby arrives at store on day 18
+Trainer Muscle Man arrives at store on day 18
+Muscle Man is feeding the pets:
+    - Muscle Man feeds the big black mixed dog who is healthy.
+    - Muscle Man feeds the big yellow poodle dog who is healthy.
+    - Muscle Man feeds the small brown german shepard dog who is healthy.
+    - Muscle Man feeds the black shorthair cat who is healthy.
+    - Muscle Man feeds the yellow shorthair cat who is healthy.
+    - Muscle Man feeds the black mixed cat who is healthy.
+    - Muscle Man feeds the small parakeet bird who is NOT healthy.
+        - Awesome! small parakeet bird has gotten better.
+    - Muscle Man feeds the small parrot bird who is healthy.
+    - Muscle Man feeds the medium parakeet bird who is healthy.
+    - Muscle Man feeds the small grey poodle dog who is NOT healthy.
+        - Awesome! small grey poodle dog has gotten better.
+    - Muscle Man feeds the big brown labrador dog who is healthy.
+    - Muscle Man feeds the small white german shepard dog who is healthy.
+    - Muscle Man feeds the small yellow poodle dog who is healthy.
+    - Muscle Man feeds the big yellow poodle dog who is healthy.
+    - Muscle Man feeds the medium black labrador dog who is healthy.
+        - Oh no! A medium black labrador dog has gotten sick.
+    - Muscle Man feeds the grey ragdoll cat who is NOT healthy.
+    - Muscle Man feeds the grey ragdoll cat who is healthy.
+    - Muscle Man feeds the black ragdoll cat who is healthy.
+    - Muscle Man feeds the brown longhair cat who is healthy.
+    - Muscle Man feeds the brown bengal cat who is NOT healthy.
+        - Awesome! brown bengal cat has gotten better.
+    - Muscle Man feeds the yellow longhair cat who is healthy.
+    - Muscle Man feeds the medium cockatoo bird who is healthy.
+    - Muscle Man feeds the medium parrot bird who is healthy.
+    - Muscle Man feeds the medium parakeet bird who is NOT healthy.
+    - Muscle Man feeds the small lovebird bird who is healthy.
+    - Muscle Man feeds the small finch bird who is healthy.
+    - Muscle Man feeds the small parakeet bird who is healthy.
+    - Muscle Man feeds the small lovebird bird who is healthy.
+    - Muscle Man feeds the small cockatoo bird who is healthy.
+    - Muscle Man feeds the big finch bird who is healthy.
+    - Muscle Man feeds the medium parakeet bird who is healthy.
+    - Muscle Man feeds the medium parrot bird who is healthy.
+    - Muscle Man feeds the big finch bird who is healthy.
+Rigby has counted $7926.87 in the register
+Clerk Rigby is doing inventory
+Clerk Rigby has counted a total of $727.91 in items in the store inventory.
+Placing an order for item: Leash
+Clerk Rigby sold Dog to customer 1 for $158.84
+Clerk Rigby sold Bird to customer 2 at a 10% discount for $72.44
+Customer 3 left the store without buying anything.
+Trainer Muscle Man is cleaning the animal cages.
+    - yellow shorthair cat escaped!
+        - Trainer Muscle Man caught yellow shorthair cat and returned them to their cage.
+    - brown longhair cat escaped!
+        - Trainer Muscle Man caught brown longhair cat and returned them to their cage.
+    - small lovebird bird escaped!
+        - Trainer Muscle Man caught small lovebird bird and returned them to their cage.
+Clerk Rigby is vacuuming the store.
+Clerk Rigby has locked up the store. Rigby and trainer Muscle Man are going home for the day.
+-----------Start of day 19-----------
+Clerk Mordecai arrives at store on day 19
+Trainer Muscle Man arrives at store on day 19
+Clerk Mordecai received a new shipment of item Leash and added them to the store's inventory.
+Muscle Man is feeding the pets:
+    - Muscle Man feeds the big black mixed dog who is healthy.
+    - Muscle Man feeds the big yellow poodle dog who is healthy.
+    - Muscle Man feeds the small brown german shepard dog who is healthy.
+    - Muscle Man feeds the black shorthair cat who is healthy.
+    - Muscle Man feeds the yellow shorthair cat who is healthy.
+    - Muscle Man feeds the black mixed cat who is healthy.
+    - Muscle Man feeds the small parakeet bird who is healthy.
+    - Muscle Man feeds the small parrot bird who is healthy.
+    - Muscle Man feeds the medium parakeet bird who is healthy.
+    - Muscle Man feeds the small grey poodle dog who is healthy.
+    - Muscle Man feeds the big brown labrador dog who is healthy.
+    - Muscle Man feeds the small white german shepard dog who is healthy.
+    - Muscle Man feeds the small yellow poodle dog who is healthy.
+    - Muscle Man feeds the big yellow poodle dog who is healthy.
+    - Muscle Man feeds the medium black labrador dog who is NOT healthy.
+    - Muscle Man feeds the grey ragdoll cat who is NOT healthy.
+    - Muscle Man feeds the grey ragdoll cat who is healthy.
+    - Muscle Man feeds the black ragdoll cat who is healthy.
+    - Muscle Man feeds the brown longhair cat who is healthy.
+    - Muscle Man feeds the brown bengal cat who is healthy.
+    - Muscle Man feeds the yellow longhair cat who is healthy.
+    - Muscle Man feeds the medium cockatoo bird who is healthy.
+    - Muscle Man feeds the medium parrot bird who is healthy.
+    - Muscle Man feeds the medium parakeet bird who is NOT healthy.
+    - Muscle Man feeds the small lovebird bird who is healthy.
+    - Muscle Man feeds the small finch bird who is healthy.
+    - Muscle Man feeds the small parakeet bird who is healthy.
+    - Muscle Man feeds the small lovebird bird who is healthy.
+    - Muscle Man feeds the small cockatoo bird who is healthy.
+    - Muscle Man feeds the big finch bird who is healthy.
+    - Muscle Man feeds the medium parakeet bird who is healthy.
+    - Muscle Man feeds the medium parrot bird who is healthy.
+    - Muscle Man feeds the big finch bird who is healthy.
+Mordecai has counted $8150.90 in the register
+Clerk Mordecai is doing inventory
+Clerk Mordecai has counted a total of $689.20 in items in the store inventory.
+Clerk Mordecai sold Food to customer 1 for $195.61
+Clerk Mordecai sold Food to customer 2 for $20.95
+Customer 3 left the store without buying anything.
+Trainer Muscle Man is cleaning the animal cages.
+    - small yellow poodle dog escaped!
+        - Trainer Muscle Man caught small yellow poodle dog and returned them to their cage.
+    - brown bengal cat escaped!
+        - Trainer Muscle Man caught brown bengal cat and returned them to their cage.
+Clerk Mordecai is vacuuming the store.
+Clerk Mordecai has locked up the store. Mordecai and trainer Muscle Man are going home for the day.
+-----------Start of day 20-----------
+Clerk Mordecai arrives at store on day 20
+Trainer Muscle Man arrives at store on day 20
+Muscle Man is feeding the pets:
+    - Muscle Man feeds the big black mixed dog who is healthy.
+    - Muscle Man feeds the big yellow poodle dog who is healthy.
+    - Muscle Man feeds the small brown german shepard dog who is healthy.
+    - Muscle Man feeds the black shorthair cat who is healthy.
+    - Muscle Man feeds the yellow shorthair cat who is healthy.
+    - Muscle Man feeds the black mixed cat who is healthy.
+    - Muscle Man feeds the small parakeet bird who is healthy.
+    - Muscle Man feeds the small parrot bird who is healthy.
+    - Muscle Man feeds the medium parakeet bird who is healthy.
+    - Muscle Man feeds the small grey poodle dog who is healthy.
+    - Muscle Man feeds the big brown labrador dog who is healthy.
+    - Muscle Man feeds the small white german shepard dog who is healthy.
+    - Muscle Man feeds the small yellow poodle dog who is healthy.
+    - Muscle Man feeds the big yellow poodle dog who is healthy.
+    - Muscle Man feeds the medium black labrador dog who is NOT healthy.
+    - Muscle Man feeds the grey ragdoll cat who is NOT healthy.
+        - Awesome! grey ragdoll cat has gotten better.
+    - Muscle Man feeds the grey ragdoll cat who is healthy.
+    - Muscle Man feeds the black ragdoll cat who is healthy.
+    - Muscle Man feeds the brown longhair cat who is healthy.
+    - Muscle Man feeds the brown bengal cat who is healthy.
+    - Muscle Man feeds the yellow longhair cat who is healthy.
+    - Muscle Man feeds the medium cockatoo bird who is healthy.
+    - Muscle Man feeds the medium parrot bird who is healthy.
+    - Muscle Man feeds the medium parakeet bird who is NOT healthy.
+    - Muscle Man feeds the small lovebird bird who is healthy.
+    - Muscle Man feeds the small finch bird who is healthy.
+    - Muscle Man feeds the small parakeet bird who is healthy.
+    - Muscle Man feeds the small lovebird bird who is healthy.
+    - Muscle Man feeds the small cockatoo bird who is healthy.
+    - Muscle Man feeds the big finch bird who is healthy.
+    - Muscle Man feeds the medium parakeet bird who is healthy.
+    - Muscle Man feeds the medium parrot bird who is healthy.
+    - Muscle Man feeds the big finch bird who is healthy.
+Mordecai has counted $8367.45 in the register
+Clerk Mordecai is doing inventory
+Clerk Mordecai has counted a total of $614.29 in items in the store inventory.
+Customer 1 left the store without buying anything.
+Clerk Mordecai sold Cat Litter to customer 2 for $187.25
+Clerk Mordecai sold Bird to customer 3 at a 10% discount for $181.32
+Customer 4 left the store without buying anything.
+Clerk Mordecai sold Toy to customer 5 for $142.88
+Clerk Mordecai sold Cat Litter to customer 6 for $39.66
+Clerk Mordecai sold Cat to customer 7 at a 10% discount for $78.75
+Trainer Muscle Man is cleaning the animal cages.
+Clerk Mordecai is vacuuming the store.
+Clerk Mordecai has locked up the store. Mordecai and trainer Muscle Man are going home for the day.
+-----------Start of day 21-----------
+Clerk Mordecai arrives at store on day 21
+Trainer Skipps arrives at store on day 21
+Skipps is feeding the pets:
+    - Skipps feeds the big black mixed dog who is healthy.
+    - Skipps feeds the big yellow poodle dog who is healthy.
+    - Skipps feeds the small brown german shepard dog who is healthy.
+    - Skipps feeds the black shorthair cat who is healthy.
+    - Skipps feeds the yellow shorthair cat who is healthy.
+    - Skipps feeds the black mixed cat who is healthy.
+    - Skipps feeds the small parakeet bird who is healthy.
+    - Skipps feeds the small parrot bird who is healthy.
+    - Skipps feeds the medium parakeet bird who is healthy.
+    - Skipps feeds the small grey poodle dog who is healthy.
+    - Skipps feeds the big brown labrador dog who is healthy.
+    - Skipps feeds the small white german shepard dog who is healthy.
+    - Skipps feeds the small yellow poodle dog who is healthy.
+    - Skipps feeds the big yellow poodle dog who is healthy.
+    - Skipps feeds the medium black labrador dog who is NOT healthy.
+    - Skipps feeds the grey ragdoll cat who is healthy.
+    - Skipps feeds the grey ragdoll cat who is healthy.
+    - Skipps feeds the black ragdoll cat who is healthy.
+    - Skipps feeds the brown longhair cat who is healthy.
+    - Skipps feeds the brown bengal cat who is healthy.
+    - Skipps feeds the yellow longhair cat who is healthy.
+    - Skipps feeds the medium cockatoo bird who is healthy.
+    - Skipps feeds the medium parrot bird who is healthy.
+    - Skipps feeds the medium parakeet bird who is NOT healthy.
+    - Skipps feeds the small lovebird bird who is healthy.
+    - Skipps feeds the small finch bird who is healthy.
+    - Skipps feeds the small parakeet bird who is healthy.
+    - Skipps feeds the small lovebird bird who is healthy.
+    - Skipps feeds the small cockatoo bird who is healthy.
+    - Skipps feeds the big finch bird who is healthy.
+    - Skipps feeds the medium parakeet bird who is healthy.
+    - Skipps feeds the medium parrot bird who is healthy.
+    - Skipps feeds the big finch bird who is healthy.
+        - Oh no! A big finch bird has gotten sick.
+Mordecai has counted $8971.32 in the register
+Clerk Mordecai is doing inventory
+Clerk Mordecai has counted a total of $299.36 in items in the store inventory.
+Placing an order for item: Bird
+Placing an order for item: Toy
+Clerk Mordecai sold Cat to customer 1 for $66.75 
+Clerk Mordecai sold Leash to customer 2 for $124.81
+Clerk Mordecai sold Food to customer 3 at a 10% discount for $78.70
+Customer 4 left the store without buying anything.
+Clerk Mordecai sold Leash to customer 5 for $14.69
+Customer 6 left the store without buying anything.
+Customer 7 left the store without buying anything.
+Clerk Mordecai sold Dog to customer 8 for $103.64
+Clerk Mordecai sold Cat Litter to customer 9 for $37.92
+Trainer Skipps is cleaning the animal cages.
+    - small parakeet bird escaped!
+        - Trainer Skipps caught small parakeet bird and returned them to their cage.
+    - medium black labrador dog escaped!
+        - Clerk Mordecai caught medium black labrador dog and returned them to their cage.
+    - grey ragdoll cat escaped!
+        - Trainer Skipps caught grey ragdoll cat and returned them to their cage.
+    - brown longhair cat escaped!
+        - Trainer Skipps caught brown longhair cat and returned them to their cage.
+Clerk Mordecai is vacuuming the store.
+Clerk Mordecai has locked up the store. Mordecai and trainer Skipps are going home for the day.
+-----------Start of day 22-----------
+Clerk Rigby arrives at store on day 22
+Trainer Muscle Man arrives at store on day 22
+Muscle Man is feeding the pets:
+    - Muscle Man feeds the big black mixed dog who is healthy.
+    - Muscle Man feeds the big yellow poodle dog who is healthy.
+    - Muscle Man feeds the small brown german shepard dog who is healthy.
+    - Muscle Man feeds the black shorthair cat who is healthy.
+    - Muscle Man feeds the yellow shorthair cat who is healthy.
+    - Muscle Man feeds the black mixed cat who is healthy.
+    - Muscle Man feeds the small parakeet bird who is healthy.
+    - Muscle Man feeds the small parrot bird who is healthy.
+    - Muscle Man feeds the medium parakeet bird who is healthy.
+        - Oh no! A medium parakeet bird has gotten sick.
+    - Muscle Man feeds the small grey poodle dog who is healthy.
+    - Muscle Man feeds the big brown labrador dog who is healthy.
+    - Muscle Man feeds the small white german shepard dog who is healthy.
+    - Muscle Man feeds the small yellow poodle dog who is healthy.
+    - Muscle Man feeds the big yellow poodle dog who is healthy.
+    - Muscle Man feeds the medium black labrador dog who is NOT healthy.
+    - Muscle Man feeds the grey ragdoll cat who is healthy.
+    - Muscle Man feeds the grey ragdoll cat who is healthy.
+    - Muscle Man feeds the black ragdoll cat who is healthy.
+    - Muscle Man feeds the brown longhair cat who is healthy.
+        - Oh no! A brown longhair cat has gotten sick.
+    - Muscle Man feeds the brown bengal cat who is healthy.
+    - Muscle Man feeds the yellow longhair cat who is healthy.
+    - Muscle Man feeds the medium cockatoo bird who is healthy.
+    - Muscle Man feeds the medium parrot bird who is healthy.
+        - Oh no! A medium parrot bird has gotten sick.
+    - Muscle Man feeds the medium parakeet bird who is NOT healthy.
+    - Muscle Man feeds the small lovebird bird who is healthy.
+    - Muscle Man feeds the small finch bird who is healthy.
+    - Muscle Man feeds the small parakeet bird who is healthy.
+    - Muscle Man feeds the small lovebird bird who is healthy.
+    - Muscle Man feeds the small cockatoo bird who is healthy.
+    - Muscle Man feeds the big finch bird who is healthy.
+    - Muscle Man feeds the medium parakeet bird who is healthy.
+    - Muscle Man feeds the medium parrot bird who is healthy.
+    - Muscle Man feeds the big finch bird who is NOT healthy.
+        - Awesome! big finch bird has gotten better.
+Rigby has counted $9389.97 in the register
+Clerk Rigby is doing inventory
+Clerk Rigby has counted a total of $122.32 in items in the store inventory.
+Placing an order for item: Dog
+Placing an order for item: Food
+Placing an order for item: Toy
+Customer 1 left the store without buying anything.
+Customer 2 left the store without buying anything.
+Clerk Rigby sold Bird to customer 3 for $72.44
+Customer 4 left the store without buying anything.
+Customer 5 left the store without buying anything.
+Customer 6 left the store without buying anything.
+Trainer Muscle Man is cleaning the animal cages.
+    - medium black labrador dog escaped!
+        - Trainer Muscle Man caught medium black labrador dog and returned them to their cage.
+    - small parakeet bird escaped!
+        - Trainer Muscle Man caught small parakeet bird and returned them to their cage.
+    - medium parrot bird escaped!
+        - Trainer Muscle Man caught medium parrot bird and returned them to their cage.
+Clerk Rigby is vacuuming the store.
+Clerk Rigby has locked up the store. Rigby and trainer Muscle Man are going home for the day.
+-----------Start of day 23-----------
+Clerk Mordecai arrives at store on day 23
+Trainer Muscle Man arrives at store on day 23
+Clerk Mordecai received a new shipment of item Bird and added them to the store's inventory.
+Clerk Mordecai received a new shipment of item Toy and added them to the store's inventory.
+Clerk Mordecai received a new shipment of item Dog and added them to the store's inventory.
+Clerk Mordecai received a new shipment of item Toy and added them to the store's inventory.
+Muscle Man is feeding the pets:
+    - Muscle Man feeds the big black mixed dog who is healthy.
+    - Muscle Man feeds the big yellow poodle dog who is healthy.
+    - Muscle Man feeds the small brown german shepard dog who is healthy.
+    - Muscle Man feeds the black shorthair cat who is healthy.
+    - Muscle Man feeds the yellow shorthair cat who is healthy.
+    - Muscle Man feeds the black mixed cat who is healthy.
+    - Muscle Man feeds the small parakeet bird who is healthy.
+    - Muscle Man feeds the small parrot bird who is healthy.
+    - Muscle Man feeds the medium parakeet bird who is NOT healthy.
+    - Muscle Man feeds the small grey poodle dog who is healthy.
+    - Muscle Man feeds the big brown labrador dog who is healthy.
+    - Muscle Man feeds the small white german shepard dog who is healthy.
+    - Muscle Man feeds the small yellow poodle dog who is healthy.
+    - Muscle Man feeds the big yellow poodle dog who is healthy.
+    - Muscle Man feeds the medium black labrador dog who is NOT healthy.
+    - Muscle Man feeds the grey ragdoll cat who is healthy.
+    - Muscle Man feeds the grey ragdoll cat who is healthy.
+    - Muscle Man feeds the black ragdoll cat who is healthy.
+    - Muscle Man feeds the brown longhair cat who is NOT healthy.
+    - Muscle Man feeds the brown bengal cat who is healthy.
+    - Muscle Man feeds the yellow longhair cat who is healthy.
+    - Muscle Man feeds the medium cockatoo bird who is healthy.
+    - Muscle Man feeds the medium parrot bird who is NOT healthy.
+    - Muscle Man feeds the medium parakeet bird who is NOT healthy.
+    - Muscle Man feeds the small lovebird bird who is healthy.
+    - Muscle Man feeds the small finch bird who is healthy.
+    - Muscle Man feeds the small parakeet bird who is healthy.
+        - Oh no! A small parakeet bird has gotten sick.
+    - Muscle Man feeds the small lovebird bird who is healthy.
+    - Muscle Man feeds the small cockatoo bird who is healthy.
+    - Muscle Man feeds the big finch bird who is healthy.
+    - Muscle Man feeds the medium parakeet bird who is healthy.
+    - Muscle Man feeds the medium parrot bird who is healthy.
+    - Muscle Man feeds the big finch bird who is healthy.
+    - Muscle Man feeds the small cockatoo bird who is healthy.
+    - Muscle Man feeds the medium parrot bird who is healthy.
+    - Muscle Man feeds the small cockatoo bird who is healthy.
+    - Muscle Man feeds the small yellow bulldog dog who is healthy.
+    - Muscle Man feeds the small black mixed dog who is healthy.
+    - Muscle Man feeds the small white bulldog dog who is healthy.
+Mordecai has counted $9462.41 in the register
+Clerk Mordecai is doing inventory
+Clerk Mordecai has counted a total of $610.59 in items in the store inventory.
+Placing an order for item: Food
+Clerk Mordecai sold Toy to customer 1 for $133.54
+Clerk Mordecai sold Dog to customer 2 at a 10% discount for $73.51
+Customer 3 left the store without buying anything.
+Trainer Muscle Man is cleaning the animal cages.
+    - big yellow poodle dog escaped!
+        - Trainer Muscle Man caught big yellow poodle dog and returned them to their cage.
+Clerk Mordecai is vacuuming the store.
+Clerk Mordecai has locked up the store. Mordecai and trainer Muscle Man are going home for the day.
+-----------Start of day 24-----------
+Clerk Mordecai arrives at store on day 24
+Trainer Skipps arrives at store on day 24
+Clerk Mordecai received a new shipment of item Food and added them to the store's inventory.
+Clerk Mordecai received a new shipment of item Food and added them to the store's inventory.
+Skipps is feeding the pets:
+    - Skipps feeds the big black mixed dog who is healthy.
+    - Skipps feeds the big yellow poodle dog who is healthy.
+    - Skipps feeds the small brown german shepard dog who is healthy.
+    - Skipps feeds the black shorthair cat who is healthy.
+    - Skipps feeds the yellow shorthair cat who is healthy.
+        - Oh no! A yellow shorthair cat has gotten sick.
+    - Skipps feeds the black mixed cat who is healthy.
+    - Skipps feeds the small parakeet bird who is healthy.
+    - Skipps feeds the small parrot bird who is healthy.
+    - Skipps feeds the medium parakeet bird who is NOT healthy.
+        - Awesome! medium parakeet bird has gotten better.
+    - Skipps feeds the small grey poodle dog who is healthy.
+    - Skipps feeds the big brown labrador dog who is healthy.
+    - Skipps feeds the small white german shepard dog who is healthy.
+    - Skipps feeds the small yellow poodle dog who is healthy.
+    - Skipps feeds the big yellow poodle dog who is healthy.
+    - Skipps feeds the medium black labrador dog who is NOT healthy.
+        - Awesome! medium black labrador dog has gotten better.
+    - Skipps feeds the grey ragdoll cat who is healthy.
+    - Skipps feeds the grey ragdoll cat who is healthy.
+    - Skipps feeds the black ragdoll cat who is healthy.
+    - Skipps feeds the brown longhair cat who is NOT healthy.
+    - Skipps feeds the brown bengal cat who is healthy.
+    - Skipps feeds the yellow longhair cat who is healthy.
+    - Skipps feeds the medium cockatoo bird who is healthy.
+    - Skipps feeds the medium parrot bird who is NOT healthy.
+    - Skipps feeds the medium parakeet bird who is NOT healthy.
+    - Skipps feeds the small lovebird bird who is healthy.
+    - Skipps feeds the small finch bird who is healthy.
+    - Skipps feeds the small parakeet bird who is NOT healthy.
+        - Awesome! small parakeet bird has gotten better.
+    - Skipps feeds the small lovebird bird who is healthy.
+    - Skipps feeds the small cockatoo bird who is healthy.
+    - Skipps feeds the big finch bird who is healthy.
+    - Skipps feeds the medium parakeet bird who is healthy.
+    - Skipps feeds the medium parrot bird who is healthy.
+    - Skipps feeds the big finch bird who is healthy.
+    - Skipps feeds the small cockatoo bird who is healthy.
+    - Skipps feeds the medium parrot bird who is healthy.
+    - Skipps feeds the small cockatoo bird who is healthy.
+    - Skipps feeds the small yellow bulldog dog who is healthy.
+    - Skipps feeds the small black mixed dog who is healthy.
+    - Skipps feeds the small white bulldog dog who is healthy.
+Mordecai has counted $9662.10 in the register
+Clerk Mordecai is doing inventory
+Clerk Mordecai has counted a total of $993.63 in items in the store inventory.
+Clerk Mordecai sold Toy to customer 1 for $38.38
+Clerk Mordecai sold Food to customer 2 for $8.70
+Clerk Mordecai sold Food to customer 3 for $139.60
+Trainer Skipps is cleaning the animal cages.
+    - small grey poodle dog escaped!
+        - Trainer Skipps caught small grey poodle dog and returned them to their cage.
+Clerk Mordecai is vacuuming the store.
+Clerk Mordecai has locked up the store. Mordecai and trainer Skipps are going home for the day.
+-----------Start of day 25-----------
+Clerk Rigby arrives at store on day 25
+Trainer Muscle Man arrives at store on day 25
+Muscle Man is feeding the pets:
+    - Muscle Man feeds the big black mixed dog who is healthy.
+    - Muscle Man feeds the big yellow poodle dog who is healthy.
+    - Muscle Man feeds the small brown german shepard dog who is healthy.
+    - Muscle Man feeds the black shorthair cat who is healthy.
+    - Muscle Man feeds the yellow shorthair cat who is NOT healthy.
+        - Awesome! yellow shorthair cat has gotten better.
+    - Muscle Man feeds the black mixed cat who is healthy.
+    - Muscle Man feeds the small parakeet bird who is healthy.
+    - Muscle Man feeds the small parrot bird who is healthy.
+    - Muscle Man feeds the medium parakeet bird who is healthy.
+    - Muscle Man feeds the small grey poodle dog who is healthy.
+    - Muscle Man feeds the big brown labrador dog who is healthy.
+    - Muscle Man feeds the small white german shepard dog who is healthy.
+    - Muscle Man feeds the small yellow poodle dog who is healthy.
+    - Muscle Man feeds the big yellow poodle dog who is healthy.
+    - Muscle Man feeds the medium black labrador dog who is healthy.
+    - Muscle Man feeds the grey ragdoll cat who is healthy.
+    - Muscle Man feeds the grey ragdoll cat who is healthy.
+    - Muscle Man feeds the black ragdoll cat who is healthy.
+    - Muscle Man feeds the brown longhair cat who is NOT healthy.
+    - Muscle Man feeds the brown bengal cat who is healthy.
+    - Muscle Man feeds the yellow longhair cat who is healthy.
+    - Muscle Man feeds the medium cockatoo bird who is healthy.
+    - Muscle Man feeds the medium parrot bird who is NOT healthy.
+    - Muscle Man feeds the medium parakeet bird who is NOT healthy.
+        - Awesome! medium parakeet bird has gotten better.
+    - Muscle Man feeds the small lovebird bird who is healthy.
+    - Muscle Man feeds the small finch bird who is healthy.
+    - Muscle Man feeds the small parakeet bird who is healthy.
+    - Muscle Man feeds the small lovebird bird who is healthy.
+    - Muscle Man feeds the small cockatoo bird who is healthy.
+    - Muscle Man feeds the big finch bird who is healthy.
+    - Muscle Man feeds the medium parakeet bird who is healthy.
+    - Muscle Man feeds the medium parrot bird who is healthy.
+    - Muscle Man feeds the big finch bird who is healthy.
+    - Muscle Man feeds the small cockatoo bird who is healthy.
+    - Muscle Man feeds the medium parrot bird who is healthy.
+    - Muscle Man feeds the small cockatoo bird who is healthy.
+    - Muscle Man feeds the small yellow bulldog dog who is healthy.
+    - Muscle Man feeds the small black mixed dog who is healthy.
+    - Muscle Man feeds the small white bulldog dog who is healthy.
+Rigby has counted $9848.79 in the register
+Clerk Rigby is doing inventory
+Clerk Rigby has counted a total of $1023.62 in items in the store inventory.
+Clerk Rigby sold Bird to customer 1 for $42.00
+Clerk Rigby sold Toy to customer 2 at a 10% discount for $116.96
+Clerk Rigby sold Dog to customer 3 at a 10% discount for $37.18
+Clerk Rigby sold Food to customer 4 for $190.95
+Clerk Rigby sold Leash to customer 5 for $14.35
+Clerk Rigby sold Bird to customer 6 for $65.51
+Clerk Rigby sold Bird to customer 7 for $53.60
+Trainer Muscle Man is cleaning the animal cages.
+    - small cockatoo bird escaped!
+        - Trainer Muscle Man caught small cockatoo bird and returned them to their cage.
+    - medium parakeet bird escaped!
+        - Trainer Muscle Man caught medium parakeet bird and returned them to their cage.
+Clerk Rigby is vacuuming the store.
+Clerk Rigby has locked up the store. Rigby and trainer Muscle Man are going home for the day.
+-----------Start of day 26-----------
+Clerk Mordecai arrives at store on day 26
+Trainer Skipps arrives at store on day 26
+Skipps is feeding the pets:
+    - Skipps feeds the big black mixed dog who is healthy.
+    - Skipps feeds the big yellow poodle dog who is healthy.
+    - Skipps feeds the small brown german shepard dog who is healthy.
+    - Skipps feeds the black shorthair cat who is healthy.
+    - Skipps feeds the yellow shorthair cat who is healthy.
+    - Skipps feeds the black mixed cat who is healthy.
+    - Skipps feeds the small parakeet bird who is healthy.
+    - Skipps feeds the small parrot bird who is healthy.
+    - Skipps feeds the medium parakeet bird who is healthy.
+    - Skipps feeds the small grey poodle dog who is healthy.
+    - Skipps feeds the big brown labrador dog who is healthy.
+    - Skipps feeds the small white german shepard dog who is healthy.
+    - Skipps feeds the small yellow poodle dog who is healthy.
+    - Skipps feeds the big yellow poodle dog who is healthy.
+    - Skipps feeds the medium black labrador dog who is healthy.
+    - Skipps feeds the grey ragdoll cat who is healthy.
+    - Skipps feeds the grey ragdoll cat who is healthy.
+    - Skipps feeds the black ragdoll cat who is healthy.
+    - Skipps feeds the brown longhair cat who is NOT healthy.
+    - Skipps feeds the brown bengal cat who is healthy.
+    - Skipps feeds the yellow longhair cat who is healthy.
+    - Skipps feeds the medium cockatoo bird who is healthy.
+    - Skipps feeds the medium parrot bird who is NOT healthy.
+    - Skipps feeds the medium parakeet bird who is healthy.
+    - Skipps feeds the small lovebird bird who is healthy.
+    - Skipps feeds the small finch bird who is healthy.
+    - Skipps feeds the small parakeet bird who is healthy.
+    - Skipps feeds the small lovebird bird who is healthy.
+    - Skipps feeds the small cockatoo bird who is healthy.
+    - Skipps feeds the big finch bird who is healthy.
+    - Skipps feeds the medium parakeet bird who is healthy.
+    - Skipps feeds the medium parrot bird who is healthy.
+    - Skipps feeds the big finch bird who is healthy.
+    - Skipps feeds the small cockatoo bird who is healthy.
+    - Skipps feeds the medium parrot bird who is healthy.
+    - Skipps feeds the small cockatoo bird who is healthy.
+    - Skipps feeds the small yellow bulldog dog who is healthy.
+    - Skipps feeds the small black mixed dog who is healthy.
+    - Skipps feeds the small white bulldog dog who is healthy.
+Mordecai has counted $10353.92 in the register
+Clerk Mordecai is doing inventory
+Clerk Mordecai has counted a total of $763.35 in items in the store inventory.
+Placing an order for item: Leash
+Clerk Mordecai sold Food to customer 1 for $169.07
+Clerk Mordecai sold Bird to customer 2 for $53.55
+Customer 3 left the store without buying anything.
+Clerk Mordecai sold Food to customer 4 for $38.35
+Clerk Mordecai sold Cat to customer 5 at a 10% discount for $4.68
+Clerk Mordecai sold Toy to customer 6 at a 10% discount for $122.07 
+Clerk Mordecai sold Cat Litter to customer 7 at a 10% discount for $153.16
+Trainer Skipps is cleaning the animal cages.
+    - black mixed cat escaped!
+        - Trainer Skipps caught black mixed cat and returned them to their cage.
+    - small lovebird bird escaped!
+        - Trainer Skipps caught small lovebird bird and returned them to their cage.
+    - small white bulldog dog escaped!
+        - Clerk Mordecai caught small white bulldog dog and returned them to their cage.
+Clerk Mordecai is vacuuming the store.
+Clerk Mordecai has locked up the store. Mordecai and trainer Skipps are going home for the day.
+-----------Start of day 27-----------
+Clerk Mordecai arrives at store on day 27
+Trainer Muscle Man arrives at store on day 27
+Muscle Man is feeding the pets:
+    - Muscle Man feeds the big black mixed dog who is healthy.
+    - Muscle Man feeds the big yellow poodle dog who is healthy.
+    - Muscle Man feeds the small brown german shepard dog who is healthy.
+    - Muscle Man feeds the black shorthair cat who is healthy.
+    - Muscle Man feeds the yellow shorthair cat who is healthy.
+        - Oh no! A yellow shorthair cat has gotten sick.
+    - Muscle Man feeds the black mixed cat who is healthy.
+    - Muscle Man feeds the small parakeet bird who is healthy.
+    - Muscle Man feeds the small parrot bird who is healthy.
+    - Muscle Man feeds the medium parakeet bird who is healthy.
+    - Muscle Man feeds the small grey poodle dog who is healthy.
+    - Muscle Man feeds the big brown labrador dog who is healthy.
+    - Muscle Man feeds the small white german shepard dog who is healthy.
+    - Muscle Man feeds the small yellow poodle dog who is healthy.
+    - Muscle Man feeds the big yellow poodle dog who is healthy.
+    - Muscle Man feeds the medium black labrador dog who is healthy.
+    - Muscle Man feeds the grey ragdoll cat who is healthy.
+    - Muscle Man feeds the grey ragdoll cat who is healthy.
+    - Muscle Man feeds the black ragdoll cat who is healthy.
+    - Muscle Man feeds the brown longhair cat who is NOT healthy.
+        - Awesome! brown longhair cat has gotten better.
+    - Muscle Man feeds the brown bengal cat who is healthy.
+    - Muscle Man feeds the yellow longhair cat who is healthy.
+    - Muscle Man feeds the medium cockatoo bird who is healthy.
+    - Muscle Man feeds the medium parrot bird who is NOT healthy.
+        - Awesome! medium parrot bird has gotten better.
+    - Muscle Man feeds the medium parakeet bird who is healthy.
+    - Muscle Man feeds the small lovebird bird who is healthy.
+    - Muscle Man feeds the small finch bird who is healthy.
+    - Muscle Man feeds the small parakeet bird who is healthy.
+    - Muscle Man feeds the small lovebird bird who is healthy.
+    - Muscle Man feeds the small cockatoo bird who is healthy.
+    - Muscle Man feeds the big finch bird who is healthy.
+    - Muscle Man feeds the medium parakeet bird who is healthy.
+    - Muscle Man feeds the medium parrot bird who is healthy.
+    - Muscle Man feeds the big finch bird who is healthy.
+    - Muscle Man feeds the small cockatoo bird who is healthy.
+    - Muscle Man feeds the medium parrot bird who is healthy.
+    - Muscle Man feeds the small cockatoo bird who is healthy.
+    - Muscle Man feeds the small yellow bulldog dog who is healthy.
+    - Muscle Man feeds the small black mixed dog who is healthy.
+    - Muscle Man feeds the small white bulldog dog who is healthy.
+Mordecai has counted $10866.81 in the register
+Clerk Mordecai is doing inventory
+Clerk Mordecai has counted a total of $475.25 in items in the store inventory. 
+Placing an order for item: Leash
+Placing an order for item: Cat Litter
+Clerk Mordecai sold Toy to customer 1 at a 10% discount for $22.07
+Clerk Mordecai sold Cat to customer 2 for $70.30
+Customer 3 left the store without buying anything.
+Customer 4 left the store without buying anything.
+Clerk Mordecai sold Food to customer 5 for $143.11
+Customer 6 left the store without buying anything.
+Customer 7 left the store without buying anything.
+Clerk Mordecai sold Dog to customer 8 for $48.28
+Trainer Muscle Man is cleaning the animal cages.
+Clerk Mordecai is vacuuming the store.
+Clerk Mordecai has locked up the store. Mordecai and trainer Muscle Man are going home for the day.
+-----------Start of day 28-----------
+Clerk Mordecai arrives at store on day 28
+Trainer Skipps arrives at store on day 28
+Clerk Mordecai received a new shipment of item Leash and added them to the store's inventory.
+Clerk Mordecai received a new shipment of item Leash and added them to the store's inventory.
+Skipps is feeding the pets:
+    - Skipps feeds the big black mixed dog who is healthy.
+    - Skipps feeds the big yellow poodle dog who is healthy.
+    - Skipps feeds the small brown german shepard dog who is healthy.
+    - Skipps feeds the black shorthair cat who is healthy.
+    - Skipps feeds the yellow shorthair cat who is NOT healthy.
+    - Skipps feeds the black mixed cat who is healthy.
+    - Skipps feeds the small parakeet bird who is healthy.
+    - Skipps feeds the small parrot bird who is healthy.
+    - Skipps feeds the medium parakeet bird who is healthy.
+    - Skipps feeds the small grey poodle dog who is healthy.
+    - Skipps feeds the big brown labrador dog who is healthy.
+    - Skipps feeds the small white german shepard dog who is healthy.
+    - Skipps feeds the small yellow poodle dog who is healthy.
+    - Skipps feeds the big yellow poodle dog who is healthy.
+    - Skipps feeds the medium black labrador dog who is healthy.
+    - Skipps feeds the grey ragdoll cat who is healthy.
+    - Skipps feeds the grey ragdoll cat who is healthy.
+    - Skipps feeds the black ragdoll cat who is healthy.
+    - Skipps feeds the brown longhair cat who is healthy.
+    - Skipps feeds the brown bengal cat who is healthy.
+    - Skipps feeds the yellow longhair cat who is healthy.
+    - Skipps feeds the medium cockatoo bird who is healthy.
+    - Skipps feeds the medium parrot bird who is healthy.
+    - Skipps feeds the medium parakeet bird who is healthy.
+    - Skipps feeds the small lovebird bird who is healthy.
+    - Skipps feeds the small finch bird who is healthy.
+    - Skipps feeds the small parakeet bird who is healthy.
+    - Skipps feeds the small lovebird bird who is healthy.
+    - Skipps feeds the small cockatoo bird who is healthy.
+    - Skipps feeds the big finch bird who is healthy.
+    - Skipps feeds the medium parakeet bird who is healthy.
+    - Skipps feeds the medium parrot bird who is healthy.
+    - Skipps feeds the big finch bird who is healthy.
+    - Skipps feeds the small cockatoo bird who is healthy.
+    - Skipps feeds the medium parrot bird who is healthy.
+    - Skipps feeds the small cockatoo bird who is healthy.
+    - Skipps feeds the small yellow bulldog dog who is healthy.
+    - Skipps feeds the small black mixed dog who is healthy.
+    - Skipps feeds the small white bulldog dog who is healthy.
+Mordecai has counted $11148.36 in the register
+Clerk Mordecai is doing inventory
+Clerk Mordecai has counted a total of $682.28 in items in the store inventory.
+Placing an order for item: Cat
+Placing an order for item: Food
+Placing an order for item: Cat Litter
+Customer 1 left the store without buying anything.
+Clerk Mordecai sold Dog to customer 2 at a 10% discount for $147.77
+Customer 3 left the store without buying anything.
+Clerk Mordecai sold Leash to customer 4 for $73.63
+Trainer Skipps is cleaning the animal cages.
+    - black shorthair cat escaped!
+        - Trainer Skipps caught black shorthair cat and returned them to their cage.
+    - small yellow poodle dog escaped!
+        - Trainer Skipps caught small yellow poodle dog and returned them to their cage.
+    - small black mixed dog escaped!
+        - Trainer Skipps caught small black mixed dog and returned them to their cage.
+Clerk Mordecai is vacuuming the store.
+Clerk Mordecai has locked up the store. Mordecai and trainer Skipps are going home for the day.
+-----------Start of day 29-----------
+Clerk Rigby arrives at store on day 29
+Trainer Muscle Man arrives at store on day 29
+Clerk Rigby received a new shipment of item Cat Litter and added them to the store's inventory.
+Muscle Man is feeding the pets:
+    - Muscle Man feeds the big black mixed dog who is healthy.
+    - Muscle Man feeds the big yellow poodle dog who is healthy.
+    - Muscle Man feeds the small brown german shepard dog who is healthy.
+    - Muscle Man feeds the black shorthair cat who is healthy.
+    - Muscle Man feeds the yellow shorthair cat who is NOT healthy.
+    - Muscle Man feeds the black mixed cat who is healthy.
+    - Muscle Man feeds the small parakeet bird who is healthy.
+    - Muscle Man feeds the small parrot bird who is healthy.
+    - Muscle Man feeds the medium parakeet bird who is healthy.
+    - Muscle Man feeds the small grey poodle dog who is healthy.
+    - Muscle Man feeds the big brown labrador dog who is healthy.
+    - Muscle Man feeds the small white german shepard dog who is healthy.
+    - Muscle Man feeds the small yellow poodle dog who is healthy.
+    - Muscle Man feeds the big yellow poodle dog who is healthy.
+    - Muscle Man feeds the medium black labrador dog who is healthy.
+    - Muscle Man feeds the grey ragdoll cat who is healthy.
+    - Muscle Man feeds the grey ragdoll cat who is healthy.
+    - Muscle Man feeds the black ragdoll cat who is healthy.
+    - Muscle Man feeds the brown longhair cat who is healthy.
+    - Muscle Man feeds the brown bengal cat who is healthy.
+    - Muscle Man feeds the yellow longhair cat who is healthy.
+    - Muscle Man feeds the medium cockatoo bird who is healthy.
+    - Muscle Man feeds the medium parrot bird who is healthy.
+    - Muscle Man feeds the medium parakeet bird who is healthy.
+    - Muscle Man feeds the small lovebird bird who is healthy.
+    - Muscle Man feeds the small finch bird who is healthy.
+    - Muscle Man feeds the small parakeet bird who is healthy.
+    - Muscle Man feeds the small lovebird bird who is healthy.
+    - Muscle Man feeds the small cockatoo bird who is healthy.
+    - Muscle Man feeds the big finch bird who is healthy.
+    - Muscle Man feeds the medium parakeet bird who is healthy.
+    - Muscle Man feeds the medium parrot bird who is healthy.
+    - Muscle Man feeds the big finch bird who is healthy.
+    - Muscle Man feeds the small cockatoo bird who is healthy.
+    - Muscle Man feeds the medium parrot bird who is healthy.
+    - Muscle Man feeds the small cockatoo bird who is healthy.
+    - Muscle Man feeds the small yellow bulldog dog who is healthy.
+    - Muscle Man feeds the small black mixed dog who is healthy.
+    - Muscle Man feeds the small white bulldog dog who is healthy.
+Rigby has counted $11354.99 in the register
+Clerk Rigby is doing inventory
+Clerk Rigby has counted a total of $737.36 in items in the store inventory.
+Placing an order for item: Dog
+Placing an order for item: Cat
+Placing an order for item: Food
+Clerk Rigby sold Leash to customer 1 for $187.78
+Clerk Rigby sold Cat Litter to customer 2 for $201.72
+Clerk Rigby sold Cat Litter to customer 3 at a 10% discount for $49.36
+Clerk Rigby sold Toy to customer 4 at a 10% discount for $185.31
+Customer 5 left the store without buying anything.
+Clerk Rigby sold Bird to customer 6 at a 10% discount for $130.00
+Clerk Rigby sold Bird to customer 7 at a 10% discount for $192.61
+Customer 8 left the store without buying anything.
+Clerk Rigby sold Cat Litter to customer 9 for $80.48
+Trainer Muscle Man is cleaning the animal cages.
+    - small yellow poodle dog escaped!
+        - Clerk Rigby caught small yellow poodle dog and returned them to their cage.
+    - medium parrot bird escaped!
+        - Clerk Rigby caught medium parrot bird and returned them to their cage.
+    - medium parrot bird escaped!
+        - Trainer Muscle Man caught medium parrot bird and returned them to their cage.
+Clerk Rigby is vacuuming the store.
+Clerk Rigby has locked up the store. Rigby and trainer Muscle Man are going home for the day.
+-----------Start of day 30-----------
+Clerk Mordecai arrives at store on day 30
+Trainer Muscle Man arrives at store on day 30
+Clerk Mordecai received a new shipment of item Cat Litter and added them to the store's inventory.
+Muscle Man is feeding the pets:
+    - Muscle Man feeds the big black mixed dog who is healthy.
+    - Muscle Man feeds the big yellow poodle dog who is healthy.
+    - Muscle Man feeds the small brown german shepard dog who is healthy.
+    - Muscle Man feeds the black shorthair cat who is healthy.
+    - Muscle Man feeds the yellow shorthair cat who is NOT healthy.
+    - Muscle Man feeds the black mixed cat who is healthy.
+    - Muscle Man feeds the small parakeet bird who is healthy.
+    - Muscle Man feeds the small parrot bird who is healthy.
+    - Muscle Man feeds the medium parakeet bird who is healthy.
+    - Muscle Man feeds the small grey poodle dog who is healthy.
+    - Muscle Man feeds the big brown labrador dog who is healthy.
+    - Muscle Man feeds the small white german shepard dog who is healthy.
+    - Muscle Man feeds the small yellow poodle dog who is healthy.
+    - Muscle Man feeds the big yellow poodle dog who is healthy.
+    - Muscle Man feeds the medium black labrador dog who is healthy.
+    - Muscle Man feeds the grey ragdoll cat who is healthy.
+    - Muscle Man feeds the grey ragdoll cat who is healthy.
+    - Muscle Man feeds the black ragdoll cat who is healthy.
+    - Muscle Man feeds the brown longhair cat who is healthy.
+    - Muscle Man feeds the brown bengal cat who is healthy.
+    - Muscle Man feeds the yellow longhair cat who is healthy.
+    - Muscle Man feeds the medium cockatoo bird who is healthy.
+    - Muscle Man feeds the medium parrot bird who is healthy.
+    - Muscle Man feeds the medium parakeet bird who is healthy.
+    - Muscle Man feeds the small lovebird bird who is healthy.
+    - Muscle Man feeds the small finch bird who is healthy.
+    - Muscle Man feeds the small parakeet bird who is healthy.
+    - Muscle Man feeds the small lovebird bird who is healthy.
+    - Muscle Man feeds the small cockatoo bird who is healthy.
+    - Muscle Man feeds the big finch bird who is healthy.
+    - Muscle Man feeds the medium parakeet bird who is healthy.
+    - Muscle Man feeds the medium parrot bird who is healthy.
+        - Oh no! A medium parrot bird has gotten sick.
+    - Muscle Man feeds the big finch bird who is healthy.
+    - Muscle Man feeds the small cockatoo bird who is healthy.
+    - Muscle Man feeds the medium parrot bird who is healthy.
+    - Muscle Man feeds the small cockatoo bird who is healthy.
+    - Muscle Man feeds the small yellow bulldog dog who is healthy.
+    - Muscle Man feeds the small black mixed dog who is healthy.
+    - Muscle Man feeds the small white bulldog dog who is healthy.
+Mordecai has counted $12326.52 in the register
+Clerk Mordecai is doing inventory
+Clerk Mordecai has counted a total of $401.79 in items in the store inventory.
+Placing an order for item: Dog
+Placing an order for item: Cat
+Placing an order for item: Food
+Placing an order for item: Toy
+Clerk Mordecai sold Leash to customer 1 at a 10% discount for $100.55
+Clerk Mordecai sold Bird to customer 2 at a 10% discount for $11.06
+Clerk Mordecai sold Leash to customer 3 for $20.84
+Customer 4 left the store without buying anything.
+Clerk Mordecai sold Leash to customer 5 for $155.15
+Clerk Mordecai sold Cat Litter to customer 6 at a 10% discount for $115.35
+Trainer Muscle Man is cleaning the animal cages.
+    - black mixed cat escaped!
+        - Clerk Mordecai caught black mixed cat and returned them to their cage.
+    - small white german shepard dog escaped!
+        - Clerk Mordecai caught small white german shepard dog and returned them to their cage.
+    - grey ragdoll cat escaped!
+        - Clerk Mordecai caught grey ragdoll cat and returned them to their cage.
+    - medium parakeet bird escaped!
+        - Clerk Mordecai caught medium parakeet bird and returned them to their cage.
+    - medium parrot bird escaped!
+        - Clerk Mordecai caught medium parrot bird and returned them to their cage.
+Clerk Mordecai is vacuuming the store.
+Clerk Mordecai has locked up the store. Mordecai and trainer Muscle Man are going home for the day.
+-----------30 day summary-----------
+Items left in inventory:
+    - dog leash
+    - medium cat litter
+    - large cat litter
+Value of items in inventory: $400.64 
+Items sold:
+    - Day 30: cat leash sold for $155.15
+    - Day 26: small parakeet bird sold for $53.55
+    - Day 30: small cat litter sold for $103.81
+    - Day 25: small cockatoo bird sold for $42.00
+    - Day 25: bird leash sold for $14.35
+    - Day 9: small yellow poodle dog sold for $17.94
+    - Day 28: bird leash sold for $73.63
+    - Day 10: big dry dog food sold for $109.22
+    - Day 21: small dry bird food sold for $70.83
+    - Day 24: medium dry bird food sold for $139.60
+    - Day 29: medium cat litter sold for $44.42
+    - Day 12: cat toy sold for $75.10
+    - Day 14: big dry cat food sold for $101.63
+    - Day 10: cat leash sold for $34.47
+    - Day 17: large cat litter sold for $170.52
+    - Day 27: medium dry cat food sold for $143.11
+    - Day 23: small black mixed dog sold for $66.16
+    - Day 26: black mixed cat sold for $4.22
+    - Day 22: big finch bird sold for $72.44
+    - Day 21: dog leash sold for $14.69
+    - Day 11: bird toy sold for $156.74
+    - Day 15: grey ragdoll cat sold for $171.34
+    - Day 23: dog toy sold for $133.54
+    - Day 10: dog leash sold for $58.59
+    - Day 13: medium dry dog food sold for $5.42
+    - Day 15: dog leash sold for $25.33
+    - Day 10: big finch bird sold for $153.11
+    - Day 29: bird toy sold for $166.78
+    - Day 16: medium parakeet bird sold for $175.46
+    - Day 16: medium parrot bird sold for $2.54
+    - Day 30: medium parrot bird sold for $9.95
+    - Day 28: small yellow bulldog dog sold for $132.99
+    - Day 25: small cockatoo bird sold for $65.51
+    - Day 6: medium dry dog food sold for $198.70
+    - Day 30: dog leash sold for $90.49
+    - Day 4: small cat litter sold for $46.22
+    - Day 25: medium parrot bird sold for $53.60
+    - Day 24: bird toy sold for $38.38
+    - Day 12: bird leash sold for $86.76
+    - Day 27: brown longhair cat sold for $70.30
+    - Day 14: small parrot bird sold for $75.17
+    - Day 20: small parakeet bird sold for $163.19
+    - Day 16: small lovebird bird sold for $68.58
+    - Day 29: small cat litter sold for $80.48
+    - Day 12: medium cat litter sold for $177.05
+    - Day 21: large cat litter sold for $37.92
+    - Day 11: small brown german shepard dog sold for $55.82
+    - Day 6: black ragdoll cat sold for $141.39
+    - Day 9: medium cockatoo bird sold for $3.80
+    - Day 3: yellow shorthair cat sold for $116.66
+    - Day 27: bird toy sold for $19.86
+    - Day 20: large cat litter sold for $187.25
+    - Day 4: cat toy sold for $75.27
+    - Day 26: medium cat litter sold for $137.85
+    - Day 17: bird leash sold for $195.43
+    - Day 1: small cat litter sold for $137.01
+    - Day 11: small lovebird bird sold for $162.40
+    - Day 3: small wet cat food sold for $125.78
+    - Day 26: cat toy sold for $109.86 
+    - Day 13: big brown labrador dog sold for $92.43
+    - Day 26: medium dry cat food sold for $38.35
+    - Day 6: small white german shepard dog sold for $149.95
+    - Day 18: big black mixed dog sold for $158.84
+    - Day 21: bird leash sold for $124.81
+    - Day 29: large cat litter sold for $201.72
+    - Day 12: dog toy sold for $112.93
+    - Day 17: yellow longhair cat sold for $138.11
+    - Day 26: big wet dog food sold for $169.07
+    - Day 30: dog leash sold for $20.84
+    - Day 11: small cockatoo bird sold for $45.57
+    - Day 11: small dry dog food sold for $158.48
+    - Day 19: medium wet cat food sold for $20.95
+    - Day 21: grey ragdoll cat sold for $66.75
+    - Day 29: medium parakeet bird sold for $173.35
+    - Day 19: big wet cat food sold for $195.61
+    - Day 25: bird toy sold for $105.26
+    - Day 27: small white bulldog dog sold for $48.28
+    - Day 21: small grey poodle dog sold for $103.64
+    - Day 5: cat toy sold for $72.96
+    - Day 20: large cat litter sold for $39.66
+    - Day 25: medium black labrador dog sold for $33.46
+    - Day 6: dog leash sold for $103.30
+    - Day 20: brown bengal cat sold for $70.88
+    - Day 24: small wet bird food sold for $8.70
+    - Day 14: cat toy sold for $144.65
+    - Day 14: big yellow poodle dog sold for $44.32
+    - Day 2: cat toy sold for $164.50
+    - Day 13: big yellow poodle dog sold for $30.12
+    - Day 12: small finch bird sold for $16.78
+    - Day 13: black shorthair cat sold for $169.88
+    - Day 29: medium parakeet bird sold for $117.00
+    - Day 15: dog leash sold for $156.88
+    - Day 14: small dry cat food sold for $50.56
+    - Day 29: dog leash sold for $187.78
+    - Day 4: cat leash sold for $35.96
+    - Day 17: small cat litter sold for $159.41
+    - Day 2: dog leash sold for $90.02
+    - Day 25: medium dry dog food sold for $190.95
+    - Day 9: small wet dog food sold for $93.60
+    - Day 11: dog toy sold for $166.13
+    - Day 20: dog toy sold for $142.88
+    - Day 5: small wet dog food sold for $162.06
+Total sales: $9996.77
+There is/are still 2 sick pet(s) in the store.
+Final count of money in register: $12706.76
+Money added to register from bank visits: $1000.00
